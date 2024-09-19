@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: transparent;
+    color: rgb(49, 226, 173);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+    height: auto;
+    width: auto;
+}
+#time{
+    height: 30px;
+    width: auto;
+    font-size: 26px;
+    
+}

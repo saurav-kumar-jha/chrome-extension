@@ -1,0 +1,12 @@
+{
+    "name":"Current Time(INDIA)",
+    "version": "1.0.0",
+    "description": "It show the current time in india but some in 24 hour timing means it doesn't show the time in AM or PM.",
+    "manifest_version": 3,
+    "author": "Saurav Kumar Jha",
+    "action":{
+        "default_popup": "index.html",
+        "default_icon":"icon.png"
+    }
+
+}
